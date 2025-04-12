@@ -1,6 +1,6 @@
 # email_scraper
 
-![image](https://github.com/user-attachments/assets/0bff688a-b6a6-4cc8-abe5-0d3afc20d284)
+![image](https://github.com/user-attachments/assets/8a37dbd8-6aa1-4231-97ab-318bba28a9cf)
 
 # Features
 *  Targeted Email Extraction: Efficiently scrapes email addresses from specified websites.
