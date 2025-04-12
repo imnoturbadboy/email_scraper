@@ -21,6 +21,8 @@
 You can install email_scraper using git clone:
 
 $ git clone https://github.com/imnoturbadboy/email_scraper.git
+$ cd email_scraper
+$ pip install -r requirements.txt
 
 #Usage
 To run the script, use the following command in your terminal:
