@@ -193,4 +193,4 @@ if __name__ == "__main__":
     else:
         delay = args.delay
 
-    asyncio.run(main(urls, args.depth, args.output, args.protocol, args.proxy, args.verbose, delay, args.max_pages)) # Передал max_pages
+    asyncio.run(main(urls, args.depth, args.output, args.protocol, args.proxy, args.verbose, delay, args.max_pages))
