@@ -1,4 +1,4 @@
-# email_scraper
+# EMAIL_SCRAPER
 
 ![image](https://github.com/user-attachments/assets/8a37dbd8-6aa1-4231-97ab-318bba28a9cf)
 
