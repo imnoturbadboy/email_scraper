@@ -1,0 +1,5 @@
+playwright
+beautifulsoup4
+aiofiles
+httpx
+fake-useragent
