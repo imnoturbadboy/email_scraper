@@ -1,20 +1,20 @@
 # email_scraper
 
 # Features
-•  Targeted Email Extraction: Efficiently scrapes email addresses from specified websites.
-•  Configurable Crawling Depth: Controls the depth of the website traversal, allowing you to target specific areas of a site or conduct broader searches.
-•  Domain Filtering: Restricts the crawler to a single domain, preventing it from leaving the target website.
-•  URL Normalization: Automatically removes tracking parameters (like UTM codes) from URLs, preventing redundant visits to the same content.
-•  robots.txt Respect: Checks and honors the robots.txt file, ensuring ethical crawling practices.
-•  Customizable Request Delay: Configurable delay between requests helps to avoid overloading the target server.
-•  Proxy Support: Enables routing requests through a proxy server for anonymity or to bypass geographical restrictions.
-•  User-Agent Rotation: Employs a random User-Agent string to mimic different browsers and reduce the likelihood of being blocked.
-•  Cookie Consent Handling: Attempts to automatically accept cookie consent forms.
-•  CAPTCHA Handling: Detects and attempts to bypass CAPTCHA challenges (by reloading the page).
-•  Flexible Input: Accepts a single URL or a file containing a list of URLs as input.
-•  Output Options: Saves the extracted email addresses to a file or prints them to the console.
-•  Simple Command-Line Interface: Easily configurable through command-line arguments.
-•  Page Limit: Limits the number of pages crawled to prevent infinite loops or excessive resource usage.
+*  Targeted Email Extraction: Efficiently scrapes email addresses from specified websites.
+*  Configurable Crawling Depth: Controls the depth of the website traversal, allowing you to target specific areas of a site or conduct broader searches.
+*  Domain Filtering: Restricts the crawler to a single domain, preventing it from leaving the target website.
+*  URL Normalization: Automatically removes tracking parameters (like UTM codes) from URLs, preventing redundant visits to the same content.
+*  robots.txt Respect: Checks and honors the robots.txt file, ensuring ethical crawling practices.
+*  Customizable Request Delay: Configurable delay between requests helps to avoid overloading the target server.
+*  Proxy Support: Enables routing requests through a proxy server for anonymity or to bypass geographical restrictions.
+*  User-Agent Rotation: Employs a random User-Agent string to mimic different browsers and reduce the likelihood of being blocked.
+*  Cookie Consent Handling: Attempts to automatically accept cookie consent forms.
+*  CAPTCHA Handling: Detects and attempts to bypass CAPTCHA challenges (by reloading the page).
+*  Flexible Input: Accepts a single URL or a file containing a list of URLs as input.
+*  Output Options: Saves the extracted email addresses to a file or prints them to the console.
+*  Simple Command-Line Interface: Easily configurable through command-line arguments.
+*  Page Limit: Limits the number of pages crawled to prevent infinite loops or excessive resource usage.
 
 # Installation
 You can install email_scraper using git clone:
@@ -62,4 +62,4 @@ Example Usage:
 **This script is a useful email scraper that can be customized using command-line arguments. Be responsible when scraping websites and always respect the website's terms of service and robots.txt file.**
 
 # Support
-If you have any ideas or thoughts on how to improve or implement new features, submit an issue or create a pull reques
+If you have any ideas or thoughts on how to improve or implement new features, submit an issue or create a pull request! 
