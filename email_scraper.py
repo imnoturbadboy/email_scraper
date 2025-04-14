@@ -45,7 +45,6 @@ async def handle_captcha(page, verbose):
         if verbose:
             print("Обнаружена CAPTCHA. Перезагрузка страницы...")
         await page.reload()
-        return True
     except Exception:
         return False
 
